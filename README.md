@@ -23,7 +23,16 @@ pip install forgive
 ```python
 from forgive.db import ForgiveDB
 
-db = ForgiveDB()
+file_db = ForgiveDB('/some/path')
+# file_db = ForgiveDB(r'C:\\some\\path')  # windows
+file_db.set('key', 'value')
+value = file_db.get('key')
+default_value = file_db.get('no-such-key', 'default-value')
+
+# Or in memory
+memory_db = ForgiveDB()
+memory_db.set([1], [2])
+memory_db.get([1])  # [2]
 ```
 
 [enough]: /pics/enough.jpg
