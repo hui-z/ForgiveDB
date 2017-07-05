@@ -31,8 +31,8 @@ default_value = file_db.get('no-such-key', 'default-value')
 
 # Or in memory
 memory_db = ForgiveDB()
-memory_db.set([1], [2])
-memory_db.get([1])  # [2]
+memory_db.set(ForgiveDB, 'simple and interesting')
+memory_db.get(ForgiveDB)  # simple and interesting
 ```
 
 [enough]: /pics/enough.jpg
