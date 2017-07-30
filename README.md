@@ -1,26 +1,11 @@
-<p align="center">
-    <img src="https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.jpg" height="130">
-</p>
-<p align="center">
-    <a href="https://pypi.python.org/pypi/forgive">
-        <img src="https://img.shields.io/pypi/v/forgive.svg" alt="Package"/>
-    </a>
-    <a href="https://pyup.io/repos/github/hui-z/ForgiveDB/">
-        <img src="https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg" alt="Updates"/>
-    </a>
-    <a href="https://travis-ci.org/hui-z/ForgiveDB">
-        <img src="https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master" alt="CI" />
-    </a>
-    <a href="http://codecov.io/github/hui-z/ForgiveDB?branch=master">
-        <img src="http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master" alt="Coverage" />
-    </a>
-    <a href="https://github.com/hui-z/ForgiveDB/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/hui-z/ForgiveDB.svg" alt="License" />
-    </a>
-    <a href="README.cn.md">
-        <img src="https://img.shields.io/badge/简介-中文-brightgreen.svg" alt="README-CN"/>
-    </a>
-</p>
+![logo](https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.jpg)
+
+[![Package](https://img.shields.io/pypi/v/forgive.svg)](https://pypi.python.org/pypi/forgive)
+[![Updates](https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg)](https://pyup.io/repos/github/hui-z/ForgiveDB/)
+[![CI](https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master)](https://travis-ci.org/hui-z/ForgiveDB)
+[![Coverage](http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master)](http://codecov.io/github/hui-z/ForgiveDB?branch=master)
+[![License](https://img.shields.io/github/license/hui-z/ForgiveDB.svg)](https://github.com/hui-z/ForgiveDB/blob/master/LICENSE)
+[![README](https://img.shields.io/badge/简介-中文-brightgreen.svg)](README.cn.md)
 
 * What if no one accept your PR ?
 * What if lib upgrade their dependency ?
