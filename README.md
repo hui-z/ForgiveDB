@@ -3,16 +3,19 @@
 </p>
 <p align="center">
     <a href="https://pypi.python.org/pypi/forgive">
-        <img src="https://img.shields.io/pypi/v/forgive.svg">
+        <img src="https://img.shields.io/pypi/v/forgive.svg" alt="Package"/>
+    </a>
+    <a href="https://pyup.io/repos/github/hui-z/ForgiveDB/">
+        <img src="https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg" alt="Updates"/>
     </a>
     <a href="https://travis-ci.org/hui-z/ForgiveDB">
-        <img src="https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master">
+        <img src="https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master" alt="CI" />
     </a>
     <a href="http://codecov.io/github/hui-z/ForgiveDB?branch=master">
-        <img src="http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master">
+        <img src="http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master" alt="Coverage" />
     </a>
     <a href="README.cn.md">
-        <img src="https://img.shields.io/badge/简介-中文-brightgreen.svg">
+        <img src="https://img.shields.io/badge/简介-中文-brightgreen.svg" alt="README-CN"/>
     </a>
 </p>
 
