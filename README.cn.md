@@ -2,8 +2,8 @@
 
 [![Package](https://img.shields.io/pypi/v/forgive.svg)](https://pypi.python.org/pypi/forgive)
 [![Updates](https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg)](https://pyup.io/repos/github/hui-z/ForgiveDB/)
-[![CI](https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master)](https://travis-ci.org/hui-z/ForgiveDB)
-[![Coverage](http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master)](http://codecov.io/github/hui-z/ForgiveDB?branch=master)
+[![Travis](https://img.shields.io/travis/hui-z/ForgiveDB.svg)](https://travis-ci.org/hui-z/ForgiveDB)
+[![Codecov](https://img.shields.io/codecov/c/github/hui-z/ForgiveDB.svg)](http://codecov.io/github/hui-z/ForgiveDB?branch=master)
 [![CodeHealth](https://landscape.io/github/hui-z/ForgiveDB/master/landscape.svg?style=flat)](https://landscape.io/github/hui-z/ForgiveDB/master)
 [![License](https://img.shields.io/github/license/hui-z/ForgiveDB.svg)](https://github.com/hui-z/ForgiveDB/blob/master/LICENSE)
 [![README](https://img.shields.io/badge/Intro-En-brightgreen.svg)](README.cn.md)
@@ -24,8 +24,7 @@ ForgiveDB 是一个无依赖的微型数据库，
 
 ## 安装
 
-使用 pip 一键安装，
-这可是个好东西。
+使用 pip 一键安装，这可是个好东西。
 
 ``` python
 pip install forgive
