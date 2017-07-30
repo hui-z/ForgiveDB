@@ -2,6 +2,7 @@
 from __future__ import absolute_import, unicode_literals
 
 import json
+import os
 
 
 class ForgiveDB(object):
@@ -48,6 +49,8 @@ class ForgiveDB(object):
         read the db file content
         :rtype: dict
         """
+        if not os.path.exists(self.db_path):
+            return {}
         with open(self.db_path, 'r') as f:
             content = f.read()
             return json.loads(content)
