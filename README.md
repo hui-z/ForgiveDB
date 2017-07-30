@@ -14,6 +14,9 @@
     <a href="http://codecov.io/github/hui-z/ForgiveDB?branch=master">
         <img src="http://codecov.io/github/hui-z/ForgiveDB/coverage.svg?branch=master" alt="Coverage" />
     </a>
+    <a href="https://github.com/hui-z/ForgiveDB/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/hui-z/ForgiveDB.svg" alt="License" />
+    </a>
     <a href="README.cn.md">
         <img src="https://img.shields.io/badge/简介-中文-brightgreen.svg" alt="README-CN"/>
     </a>
