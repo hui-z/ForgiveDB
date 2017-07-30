@@ -10,7 +10,7 @@ import pypandoc
 
 codecov_token = '' or os.environ.get('FORGIVE_DB_CODECOV_TOKEN')
 
-base_dir = os.path.dirname(__file__)
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 sub_commands = {}
 
