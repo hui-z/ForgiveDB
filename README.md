@@ -5,6 +5,9 @@
     <a href="https://travis-ci.org/hui-z/ForgiveDB">
         <img src="https://travis-ci.org/hui-z/ForgiveDB.svg?branch=master">
     </a>
+    <a href="https://pypi.python.org/pypi/forgive">
+        <img src="https://img.shields.io/pypi/v/forgive.svg">
+    </a>
     <a href="README.cn.md">
         <img src="https://img.shields.io/badge/简介-中文-brightgreen.svg">
     </a>
