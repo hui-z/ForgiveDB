@@ -1,9 +1,13 @@
-*.pyc
 .DS_STORE
+.coverage
+coverage.xml
+_secret.py
 
-*.egg-info/
+*.pyc
 
 /.idea/
 /build/
 /dist/
 /env/
+
+*.egg-info/

@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, unicode_literals
 
-from unittest import TestCase
+import unittest
 
 from forgive.db import ForgiveDB
 
 
-class MemoryDBTests(TestCase):
+class MemoryDBTests(unittest.TestCase):
     def setUp(self):
         self.db = ForgiveDB()
 
