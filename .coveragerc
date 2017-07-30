@@ -1,0 +1,4 @@
+[run]
+branch = True
+include = forgive/*
+omit = tests/*
