@@ -5,6 +5,8 @@ import os
 
 from setuptools import setup
 
+from forgive import __version__
+
 
 def get_long_description():
     readme_file = 'README.rst'
@@ -17,7 +19,7 @@ def get_long_description():
 
 setup(
     name='forgive',
-    version='0.0.1',
+    version=__version__,
     description='Coding should be simple and fun. Certainly I will choose ForgiveDB.',
     long_description=get_long_description(),
     author='Lirian Su',

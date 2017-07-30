@@ -38,7 +38,7 @@ pip install forgive
 （其实是因为我们文档写的烂）
 
 ``` python
-from forgive.db import ForgiveDB
+from forgive import ForgiveDB
 
 file_db = ForgiveDB('/some/path')
 # file_db = ForgiveDB(r'C:\\some\\path')  # windows

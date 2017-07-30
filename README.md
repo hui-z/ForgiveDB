@@ -37,7 +37,7 @@ Code is the best document.
 (Because we are not good at writing documents.)
 
 ``` python
-from forgive.db import ForgiveDB
+from forgive import ForgiveDB
 
 file_db = ForgiveDB('/some/path')
 # file_db = ForgiveDB(r'C:\\some\\path')  # windows

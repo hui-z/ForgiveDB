@@ -3,7 +3,7 @@ from __future__ import absolute_import, unicode_literals
 
 import unittest
 
-from forgive.db import ForgiveDB
+from forgive import ForgiveDB
 
 
 class MemoryDBTests(unittest.TestCase):

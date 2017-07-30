@@ -5,7 +5,7 @@ import os
 import tempfile
 import unittest
 
-from forgive.db import ForgiveDB
+from forgive import ForgiveDB
 
 
 class MemoryDBTests(unittest.TestCase):

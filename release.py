@@ -60,4 +60,4 @@ if __name__ == '__main__':
     if sub_command not in sub_commands:
         usage()
     func = sub_commands[sub_command]
-    func()
+    func(*sys.argv[2:])
