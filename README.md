@@ -6,7 +6,7 @@
 [![Codecov](https://img.shields.io/codecov/c/github/hui-z/ForgiveDB.svg)](http://codecov.io/github/hui-z/ForgiveDB?branch=master)
 [![CodeHealth](https://landscape.io/github/hui-z/ForgiveDB/master/landscape.svg?style=flat)](https://landscape.io/github/hui-z/ForgiveDB/master)
 [![License](https://img.shields.io/github/license/hui-z/ForgiveDB.svg)](https://github.com/hui-z/ForgiveDB/blob/master/LICENSE)
-[![README](https://img.shields.io/badge/简介-中文-brightgreen.svg)](README.cn.md)
+[![README](https://img.shields.io/badge/简介-中文-brightgreen.svg)](https://github.com/hui-z/ForgiveDB/blob/master/README.cn.md)
 
 * What if no one accept your PR ?
 * What if lib upgrade their dependency ?

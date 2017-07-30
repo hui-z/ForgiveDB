@@ -6,7 +6,7 @@
 [![Codecov](https://img.shields.io/codecov/c/github/hui-z/ForgiveDB.svg)](http://codecov.io/github/hui-z/ForgiveDB?branch=master)
 [![CodeHealth](https://landscape.io/github/hui-z/ForgiveDB/master/landscape.svg?style=flat)](https://landscape.io/github/hui-z/ForgiveDB/master)
 [![License](https://img.shields.io/github/license/hui-z/ForgiveDB.svg)](https://github.com/hui-z/ForgiveDB/blob/master/LICENSE)
-[![README](https://img.shields.io/badge/Intro-En-brightgreen.svg)](README.cn.md)
+[![README](https://img.shields.io/badge/Intro-En-brightgreen.svg)](https://github.com/hui-z/ForgiveDB/blob/master/README.md)
 
 * 没人帮你合 Pull Request 怎么办 ?
 * 第三方库老是要升依赖版本怎么办 ?
