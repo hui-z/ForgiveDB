@@ -1,4 +1,4 @@
-![logo](https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.jpg)
+![logo](https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.svg)
 
 [![Package](https://img.shields.io/pypi/v/forgive.svg)](https://pypi.python.org/pypi/forgive)
 [![Updates](https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg)](https://pyup.io/repos/github/hui-z/ForgiveDB/)
@@ -12,7 +12,7 @@
 * What if lib upgrade their dependency ?
 * What if you got a brand new requirement ?
 
-![forgive](pics/forgive.jpg)
+![forgive](https://rawgit.com/hui-z/ForgiveDB/master/pics/forgive.jpg)
 
 [lowdb](https://github.com/typicode/lowdb) is JavaScript,
 [tinydb](http://tinydb.readthedocs.io/en/latest/intro.html) is not that tiny.

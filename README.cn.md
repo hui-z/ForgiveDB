@@ -1,4 +1,4 @@
-![logo](https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.jpg)
+![logo](https://rawgit.com/hui-z/ForgiveDB/master/pics/logo.svg)
 
 [![Package](https://img.shields.io/pypi/v/forgive.svg)](https://pypi.python.org/pypi/forgive)
 [![Updates](https://pyup.io/repos/github/hui-z/ForgiveDB/shield.svg)](https://pyup.io/repos/github/hui-z/ForgiveDB/)
@@ -12,7 +12,7 @@
 * 第三方库老是要升依赖版本怎么办 ?
 * 老是有新的需求怎么办 ?
 
-![forgive](pics/forgive.jpg)
+![forgive](https://rawgit.com/hui-z/ForgiveDB/master/pics/forgive.jpg)
 
 [lowdb](https://github.com/typicode/lowdb) 是 JS 写的，
 [tinydb](http://tinydb.readthedocs.io/en/latest/intro.html) 也不够小。
