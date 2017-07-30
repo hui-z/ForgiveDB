@@ -1,7 +1,7 @@
 .DS_STORE
 .coverage
+README.rst
 coverage.xml
-release.py
 
 *.pyc
 
