@@ -8,17 +8,17 @@
 [![License](https://img.shields.io/github/license/hui-z/ForgiveDB.svg)](https://github.com/hui-z/ForgiveDB/blob/master/LICENSE)
 [![README](https://img.shields.io/badge/简介-中文-brightgreen.svg)](https://github.com/hui-z/ForgiveDB/blob/master/README.cn.md)
 
-* What if no one accept your PR ?
-* What if lib upgrade their dependency ?
-* What if you got a brand new requirement ?
+* What if no one accepts your PR ?
+* What if a lib upgrades their dependency ?
+* What if you get a brand new requirement ?
 
 ![forgive](https://rawgit.com/hui-z/ForgiveDB/master/pics/forgive.jpg)
 
-[lowdb](https://github.com/typicode/lowdb) is JavaScript,
+[lowdb](https://github.com/typicode/lowdb) is written in JavaScript,
 [tinydb](http://tinydb.readthedocs.io/en/latest/intro.html) is not that tiny.
 [ForgiveDB](https://github.com/hui-z/ForgiveDB) is your destiny.
 
-ForgiveDB is a small, independent database,
+ForgiveDB is a tiny database with no depencencies,
 supports in-memory or json-file storage.
 
 
