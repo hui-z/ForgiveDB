@@ -9,7 +9,7 @@
 [![README](https://img.shields.io/badge/简介-中文-brightgreen.svg)](https://github.com/hui-z/ForgiveDB/blob/master/README.cn.md)
 
 * What if no one accepts your PR ?
-* What if a lib upgrades their dependency ?
+* What if a lib upgrades their dependencies ?
 * What if you get a brand new requirement ?
 
 ![forgive](https://rawgit.com/hui-z/ForgiveDB/master/pics/forgive.jpg)
