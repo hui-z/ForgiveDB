@@ -24,7 +24,7 @@ ForgiveDB 是一个无依赖的微型数据库，
 
 ## 安装
 
-使用 pip 一键安装，这可是个好东西。
+使用 [pip](https://pip.pypa.io/) 一键安装，这可是个好东西。
 
 ``` python
 pip install forgive

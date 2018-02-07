@@ -24,7 +24,7 @@ supports in-memory or json-file storage.
 
 ## Installation
 
-Use pip. Oh you should learn it.
+Use [pip](https://pip.pypa.io/). Oh you should learn it.
 
 ``` python
 pip install forgive
